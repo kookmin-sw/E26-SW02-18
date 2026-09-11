@@ -1,4 +1,4 @@
-# Welcome to E26-SW02-18 카레유
+# Welcome to E26-SW02-18
 
 ## 🎯 팀 슬로건
 
